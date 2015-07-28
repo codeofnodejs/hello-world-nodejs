@@ -18,4 +18,4 @@ http.createServer(function(request, response) {
 node server.js
 ```
 - Step 3: Open in your browser:
-```http://localhost:8888/```
+<http://localhost:8888/>
